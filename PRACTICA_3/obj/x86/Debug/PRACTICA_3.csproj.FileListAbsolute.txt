@@ -1,0 +1,16 @@
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\bin\Debug\PRACTICA_3.exe
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\bin\Debug\PRACTICA_3.pdb
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form1.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Properties.Resources.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.csproj.GenerateResource.Cache
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.exe
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.pdb
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form2.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form3.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.csprojResolveAssemblyReference.cache
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form4.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form5.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form6.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form7.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form8.resources
+H:\SECOND_YEAR\GUI Programming\PRACTICA_3\PRACTICA_3\obj\x86\Debug\PRACTICA_3.Form9.resources
